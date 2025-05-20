@@ -6,3 +6,4 @@ cryptography==36.0.2
 fpdf2==2.8.3
 Jinja2==3.1.2
 gunicorn
+fpdf2
