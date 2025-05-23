@@ -2,7 +2,6 @@ import os
 from flask import Blueprint, request, jsonify, send_file
 from src.models.player import db, Player
 import tempfile
-from weasyprint import HTML, CSS
 from jinja2 import Template
 from sqlalchemy import update
 
