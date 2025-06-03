@@ -1,8 +1,0 @@
-Flask==3.1.0
-Flask-SQLAlchemy==3.1.1
-PyMySQL==1.1.1
-SQLAlchemy==2.0.40
-cryptography==36.0.2
-fpdf2==2.8.3
-Jinja2==3.1.2
-gunicorn==23.0.0
